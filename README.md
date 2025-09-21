@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Passionate **full-stack MERN developer** & **C++ coder**
+ 🔭 Passionate **full-stack MERN developer** & **Java coder**
  
  🌱 Dedicated to crafting **innovative solutions** for real-world problems
 
@@ -61,6 +61,7 @@
 </div>
 
 <hr/>
+
 
 
 
